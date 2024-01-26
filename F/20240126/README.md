@@ -72,6 +72,8 @@ AT&T Unix、Linux的常用格式
 
 intel Windows的常用格式
 
+3.27
+
 # 选择语句的机器级表示
 
 # 循环语句的机器级表示
