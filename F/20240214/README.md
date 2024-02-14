@@ -64,6 +64,10 @@ Ubuntu、CentOS的开发团队，其主要工作是实现非内核功能，而�
 
 ![](10.png)
 
+## 宏内核、微内核
+
+![](18.png)
+
 ## 外核（exokernel）
 
 <img src="11.png" style="zoom:67%;" />
